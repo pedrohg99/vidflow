@@ -1,5 +1,6 @@
 const containerVideos = document.querySelector(".videos__container");
 
+console.log(calopsita)
 
 async function buscarEMostrarVideos(){
     try{
